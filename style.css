@@ -1,0 +1,15 @@
+h1,h2,button {
+    text-transform: capitalize;
+}
+
+h1,h2,#l2 {
+    color : rebeccapurple;
+}
+
+#l1{
+    color: red;
+}
+
+.ibeige{
+    background-color: beige;
+}
